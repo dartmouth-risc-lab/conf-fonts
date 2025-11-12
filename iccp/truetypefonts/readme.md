@@ -1,0 +1,1 @@
+Truetype fonts are uncompressed should be used for making figures in conference papers.
